@@ -8,19 +8,19 @@ Todos os códigos foram produzidos como prática pessoal e estudos contínuos, c
 
 ### Organização do repositório
 
-1. `fundamento/basico/`
+1. `01.fundamentos/01.basico/`
    - Exercícios introdutórios de lógica, entrada e saída de dados, operadores, estruturas condicionais e de repetição.
 
-2. `fundamentos/intermediario/`
+2. `01.fundamentos/02.intermediario/`
    - Exercícios com vetores, matrizes, métodos, validações e mini-sistemas simples.
 
-3. `poo/`
+3. `02.poo/`
    - Exercícios de Programação Orientada a Objetos, incluindo fundamentos, construtores, encapsulamento, herança, polimorfismo, interfaces, coleções, exceções e recursividade.
 
-4. `estruturas-e-algoritmos/`
+4. `03.estruturas-e-algoritmos/`
    - Implementações de algoritmos de busca e ordenação, além de exercícios de recursividade.
 
-5. `projetos/`
+5. `04.projetos/`
    - Projetos maiores que integram múltiplos conceitos, simulando sistemas reais como biblioteca, sistema bancário, loja digital, navegador de arquivos e inventário de artefatos.
 
 ##
