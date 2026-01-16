@@ -21,7 +21,7 @@ programação e no aprendizado dos conceitos fundamentais da linguagem.
   fundamentos, construtores, encapsulamento, herança, polimorfismo, interfaces,
   coleções, exceções e recursividade.
 
-- **algoritmos-avancados/**  
+- **estruturas-e-algoritmos/**  
   Implementações de algoritmos de ordenação, busca e recursão.
 
 - **projetos/**  
